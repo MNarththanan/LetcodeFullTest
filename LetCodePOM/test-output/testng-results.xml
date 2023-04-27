@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-26T17:50:36Z" name="Default suite" finished-at="2023-04-26T17:50:54Z" duration-ms="18118">
+    <groups>
+    </groups>
+    <test started-at="2023-04-26T17:50:36Z" name="Default test" finished-at="2023-04-26T17:50:54Z" duration-ms="18118">
+      <class name="org.letcode.Test.TC001_Login">
+        <test-method is-config="true" signature="setData()[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:36Z" name="setData" finished-at="2023-04-26T17:50:36Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:36Z" name="StartBrowser" finished-at="2023-04-26T17:50:43Z" duration-ms="7206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="loginTest([Ljava.lang.String;)[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:43Z" name="loginTest" data-provider="data" finished-at="2023-04-26T17:50:43Z" duration-ms="80" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@46e3559f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="DriverQuit()[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:43Z" name="DriverQuit" finished-at="2023-04-26T17:50:44Z" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverQuit -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:44Z" name="StartBrowser" finished-at="2023-04-26T17:50:49Z" duration-ms="4849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="loginTest([Ljava.lang.String;)[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:49Z" name="loginTest" data-provider="data" finished-at="2023-04-26T17:50:49Z" duration-ms="67" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3b83459e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="DriverQuit()[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:49Z" name="DriverQuit" finished-at="2023-04-26T17:50:49Z" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverQuit -->
+        <test-method is-config="true" signature="StartBrowser()[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:49Z" name="StartBrowser" finished-at="2023-04-26T17:50:54Z" duration-ms="4700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartBrowser -->
+        <test-method signature="loginTest([Ljava.lang.String;)[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:54Z" name="loginTest" data-provider="data" finished-at="2023-04-26T17:50:54Z" duration-ms="66" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@32118208]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="DriverQuit()[pri:0, instance:org.letcode.Test.TC001_Login@53941c2f]" started-at="2023-04-26T17:50:54Z" name="DriverQuit" finished-at="2023-04-26T17:50:54Z" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverQuit -->
+      </class> <!-- org.letcode.Test.TC001_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
