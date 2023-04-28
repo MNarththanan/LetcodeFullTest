@@ -27,7 +27,7 @@ public class ReadExcel {
 		int lastSellNo = sheet1.getRow(0).getLastCellNum();
 
 		String[][] data = new String[lastRowNum][lastSellNo];
-
+        System.out.println("Test data driven");
 		System.out.println(lastRowNum);
 		System.out.println(phy);
 		for (int i = 1; i <= lastRowNum; i++) {
